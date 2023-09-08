@@ -32,6 +32,9 @@
   <a href="https://github.com/rakesh-codes" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+   <a href="https://discord.com/channels/@mrperfect_rakesh target="_blank">
+       <img src="https://img.shields.io/badge/discord-308323056592486420?style=for-the-badge&logo=discord&logoColor=blue" target="_blank" />
+       </a>
 </div>
 
  <hr/>
