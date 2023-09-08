@@ -7,8 +7,8 @@
 <h3 align="center">A passionate software developer from Bengaluru </h3>
 
 <br/>
-
-<div align="center">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<div align="left">
  
  🔭 I’m currently working on **Developing my skills**
  
@@ -16,9 +16,11 @@
 
  💬 Ask me about **Python, Flask, MYSQL... or anything [here](https://github.com/rakesh-codes/rakesh-codes/issues)**
  
- ⚡ Know about my experiences **I’m currently open for an Intern or a new job opportunity, this is my resume [here](https://github.com/rakesh-codes/portfolio)**
+ ⚡ Know about my experiences **this is my resume [here](https://github.com/rakesh-codes/portfolio)**
  
- 🤝 I’m available for freelancing.
+ 💼  I’m currently open to **contract or a new job opportunity**
+     
+ 🤝 I’m available for **freelancing**.
  
  </div>
  
