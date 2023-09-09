@@ -51,7 +51,12 @@
 <br/>
 <hr/>
 
+<h2 align="center">✍️ Random Dev Quote✍️ </h2>
+<br/>
 <div align="center">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rakesh-codes/rakesh-codes/output/github-contribution-grid-snake.svg" />
