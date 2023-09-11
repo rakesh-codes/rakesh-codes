@@ -20,12 +20,23 @@
  💼  I’m currently open to **contract or a new job opportunity**
      
  🤝 I’m available for **freelancing**
- 
- </div>
+ <!--
+ <div align="center">
+  <h3>My Pinned Repositories</h3>
+  <p>Explore some of my top projects:</p>
+  <a href="https://github.com/rakesh-codes/rakesh-codes" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rakesh-codes&repo=rakesh-codes" alt="Pinned Repository: rakesh-codes" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rakesh-codes/rakesh-codes" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rakesh-codes&repo=rakesh-codes" alt="Pinned Repository: rakesh-codes" />
+  </a>
+</div>
 
+-->
 
  <hr/>
-<h2 align="center"> 🔗 Social & Contact  🔗 </h2> 
+<h2 align="center"> 🔗Lets Socialize & Contact  🔗 </h2> 
  <div align="center">
 
   <a href="mailto:mailtorakesh55@gmail.com">
