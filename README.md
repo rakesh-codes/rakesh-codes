@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rakesh-codes.rakesh-codes" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rakesh-codes.visitor-badge&left_color=%232FF3E0&right_color=purple" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+Traveller!+👋;+I'm+Rakesh!;" />
 </h1>
@@ -15,11 +15,11 @@
 
  💬 Ask me about **Python, Flask, MYSQL... or anything [here](https://github.com/rakesh-codes/rakesh-codes/issues)**
  
- ⚡ Know about my experiences **this is my resume [here](https://github.com/rakesh-codes/portfolio)**
+ ⚡ Know about my experiences **this is my github resume [here](https://github.com/rakesh-codes/portfolio)**
  
  💼  I’m currently open to **contract or a new job opportunity**
      
- 🤝 I’m available for **freelancing**.
+ 🤝 I’m available for **freelancing**
  
  </div>
  
@@ -31,11 +31,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/rakesh-codes" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/github-FF5722?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
    <a href="https://discord.com/channels/@mrperfect_rakesh target="_blank">
        <img src="https://img.shields.io/badge/discord-308323056592486420?style=for-the-badge&logo=discord&logoColor=blue" target="_blank" />
        </a>
+      <a href="https://rakeshd.com">
+    <img src="https://img.shields.io/badge/portfolio-45FFCA?style=for-the-badge&logo=mdbook&logoColor=black" />
+  </a>
+     <a href="https://drive.google.com/file/d/10biweR-mjqTw6WX0HtagHpOL_S5_R6aN/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-33633?style=for-the-badge&logo=googledrive&logoColor=brown" />
+  </a>
 </div>
 
  <hr/>
@@ -54,6 +60,7 @@
 <br/>
 <div align="center">
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+    
 </div>
 
   <h2>🐍 My Contributions 🐍</h2>
@@ -78,7 +85,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
 <br/>
