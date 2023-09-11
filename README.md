@@ -6,7 +6,7 @@
 <h3 align="center">👨‍💻A passionate software developer from Bengaluru📍</h3>
 
 <br/>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" height="250" />
 <div align="left">
  
  🔭 I’m currently working on **Developing my skills**
@@ -22,8 +22,12 @@
  🤝 I’m available for **freelancing**
  
  </div>
- 
-<div align="center"> 
+
+
+ <hr/>
+<h2 align="center">⚒📇 Social & Contact 📇 </h2> 
+ <div align="center">
+
   <a href="mailto:mailtorakesh55@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -37,15 +41,14 @@
        <img src="https://img.shields.io/badge/discord-308323056592486420?style=for-the-badge&logo=discord&logoColor=blue" target="_blank" />
        </a>
       <a href="https://rakeshd.com">
-    <img src="https://img.shields.io/badge/portfolio-45FFCA?style=for-the-badge&logo=mdbook&logoColor=black" />
+    <img src="https://img.shields.io/badge/Portfolio Website-45FFCA?style=for-the-badge&logo=mdbook&logoColor=black" />
   </a>
      <a href="https://drive.google.com/file/d/10biweR-mjqTw6WX0HtagHpOL_S5_R6aN/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-33633?style=for-the-badge&logo=googledrive&logoColor=brown" />
   </a>
 </div>
 
- <hr/>
- 
+<br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
