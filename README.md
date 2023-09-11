@@ -25,7 +25,7 @@
 
 
  <hr/>
-<h2 align="center">⚒📇 Social & Contact 📇 </h2> 
+<h2 align="center"> 🔗 Social & Contact  🔗 </h2> 
  <div align="center">
 
   <a href="mailto:mailtorakesh55@gmail.com">
@@ -66,17 +66,13 @@
     
 </div>
 
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <h2 align="center">🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rakesh-codes/rakesh-codes/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
 
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=rakesh-codes&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -88,7 +84,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=5000&lines=🙏Thanks+for+visiting!+✌️;🚀Shoot+me+a+message+on+social+media!;✋I'm+always+down+to+collab!;💬lets+grab+a+coffee☕+and+dicuss!;">
 </h3>
 
 <br/>
