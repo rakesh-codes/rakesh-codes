@@ -36,7 +36,7 @@
 -->
 
  <hr/>
-<h2 align="center"> 🔗Lets Socialize & Contact  🔗 </h2> 
+<h2 align="center"> 🔗Lets Socialize & Connect  🔗 </h2> 
  <div align="center">
 
   <a href="mailto:mailtorakesh55@gmail.com">
