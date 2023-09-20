@@ -63,7 +63,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,bootstrap,mui,mysql,flask,html,css,vscode,figma,git,github,githubactions,type.js" /><br>
+    <img src="https://skillicons.dev/icons?i=python,bootstrap,mui,mysql,flask,html,css,vscode,figma,git,github,githubactions,threejs" /><br>
     <img src="https://skillicons.dev/icons?i=linux,javascript,codepen,fastapi,mongodb,discord,bots,c,java,django" />
 </div>
 
