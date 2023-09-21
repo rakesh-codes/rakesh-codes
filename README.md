@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **frontend, making contributions**
 
- 💬 Ask me about **Python, Flask, MYSQL... or anything [here](https://github.com/rakesh-codes/rakesh-codes/issues)**
+ 💬 Ask me about **Python, Flask, MYSQL... or Javascript [here](https://github.com/rakesh-codes/rakesh-codes/issues)**
  
  ⚡ Know about my experiences **this is my github resume [here](https://github.com/rakesh-codes/portfolio)**
  
