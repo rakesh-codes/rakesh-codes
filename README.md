@@ -54,7 +54,7 @@
       <a href="https://rakeshd.com">
     <img src="https://img.shields.io/badge/Portfolio Website-45FFCA?style=for-the-badge&logo=mdbook&logoColor=black" />
   </a>
-     <a href="https://drive.google.com/file/d/10biweR-mjqTw6WX0HtagHpOL_S5_R6aN/view?usp=sharing">
+     <a href="https://drive.google.com/file/d/1fptEwU1ZX4Q53AlehGil_8iDSTF2hDBr/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-33633?style=for-the-badge&logo=googledrive&logoColor=brown" />
   </a>
 </div>
